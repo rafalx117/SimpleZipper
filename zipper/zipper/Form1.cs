@@ -136,7 +136,7 @@ namespace zipper
             {
                 destinationLabel.Enabled = true;
                 destinationButton.Enabled = true;
-                // hejka
+                // hejka marchewka
             }
         }
     }
